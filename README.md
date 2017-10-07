@@ -11,7 +11,10 @@ My old blog using [middleman](https://middlemanapp.com/)!
 
 ## Setup and Installation
 
+> **use npm**
+
 ```bash
+$ npm run bundle
 $ npm install
 $ npm start/npm run dev
 ```
@@ -19,13 +22,15 @@ $ npm start/npm run dev
 > **use yarn**
 
 ```bash
-$ yarn
+$ yarn bundle
+$ yarn install
 $ yarn dev/start
 ```
 
 > **use [middleman](https://middlemanapp.com/)**
 
 ```bash
+$ bundle install
 $ npm install
 $ middleman server
 ```
