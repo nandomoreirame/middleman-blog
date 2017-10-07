@@ -11,43 +11,21 @@
 **Installation**
 
 ```bash
-$ yarn
+$ npm install
+$ npm start/npm run dev
 ```
-or 
+
+> **use yarn**
+
+```bash
+$ yarn
+$ yarn dev/start
+```
+
+> **use [middleman](https://middlemanapp.com/)**
+
 ```bash
 $ npm install
-```
-
-**Running**
-
-```bash
-$ yarn start
-```
-or
-```bash
-$ npm start
-```
-or 
-```bash
-$ middleman server
-```
-
--- or --
-
-```bash
-$ yarn dev
-```
-or
-```bash
-$ npm run dev
-```
-
-open: [localhost:4567](http://localhost:4567)
-
-
-### [middleman](https://middlemanapp.com/)#
-
-```bash
 $ middleman server
 ```
 
