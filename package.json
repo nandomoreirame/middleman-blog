@@ -2,7 +2,7 @@
   "name": "nandomoreira.me",
   "version": "3.0.0",
   "description": "> My personal website and blog >> http://nandomoreira.me/",
-  "homepage": "https://github.com/nandomoreirame/nandomoreirame.github.io#readme",
+  "homepage": "https://github.com/nandomoreirame/middleman-blog#readme",
   "private": true,
   "main": "gulpfile.babel.js",
   "scripts": {
@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nandomoreirame/nandomoreirame.github.io.git"
+    "url": "git+https://github.com/nandomoreirame/middleman-blog.git"
   },
   "author": "Fernando Moreira",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nandomoreirame/nandomoreirame.github.io/issues"
+    "url": "https://github.com/nandomoreirame/middleman-blog/issues"
   },
   "devDependencies": {
     "concurrently": "^3.1.0",
