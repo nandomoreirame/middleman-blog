@@ -2,29 +2,53 @@
 
 > My old blog using middleman!
 
----
 
 ## Contributing
 
----
 
 ## Setup
 
-* `yarn` or `npm install`
-* `yarn start` or `npm start` or `middleman server`
+**Installation**
+
+```bash
+$ yarn
+```
+or 
+```bash
+$ npm install
+```
+
+**Running**
+
+```bash
+$ yarn start
+```
+or
+```bash
+$ npm start
+```
+or 
+```bash
+$ middleman server
+```
 
 -- or --
 
-* `yarn dev` or `npm run dev`
+```bash
+$ yarn dev
+```
+or
+```bash
+$ npm run dev
+```
 
 open: [localhost:4567](http://localhost:4567)
 
----
 
 ### [middleman](https://middlemanapp.com/)#
 
-```
-middleman server
+```bash
+$ middleman server
 ```
 
 open: [localhost:4567](http://localhost:4567)
