@@ -3,7 +3,7 @@
 My old blog using [middleman](https://middlemanapp.com/)!
 
 ## Table of Contents
-- [Setup](#setup)
+- [Setup](#setup-and-installation)
 - [Support](#support)
 - [Contributing](#contributing)
 - [History](#history)
